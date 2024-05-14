@@ -10,11 +10,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Algorithm
 ### Start
 Steps
+
 1.Collect student data including grades and placement status.
 2.Clean and split the data for training and testing.
 3.Train the logistic regression model using the training data.
 4.Evaluate the model's performance using testing data.
 5.Use the trained model to predict placement status for new students.
+
 Stop
 ## Program:
 ```py
